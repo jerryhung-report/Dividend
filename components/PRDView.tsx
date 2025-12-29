@@ -1,4 +1,3 @@
-
 import React from 'react';
 // Added AlertCircle, Power, and Calendar to the imported icons from lucide-react
 import { FileText, Target, List, ShieldAlert, PieChart, Users, Zap, Database, ArrowLeftRight, RefreshCcw, MonitorPlay, Layers, LayoutGrid, MousePointer2, Info, Sparkles, CheckCircle2, Share2, ShieldCheck, Wallet, Landmark, Settings2, AlertCircle, Power, Calendar } from 'lucide-react';
@@ -80,7 +79,7 @@ const PRDView: React.FC = () => {
             <div className="w-px h-8 bg-slate-700"></div>
             <div className="flex flex-col">
               <span className="text-[10px] uppercase font-black text-slate-500 tracking-widest">UPDATED</span>
-              <span className="text-sm font-bold">2026 / 05 / 20</span>
+              <span className="text-sm font-bold">2026 / 01 / 09</span>
             </div>
           </div>
         </div>
